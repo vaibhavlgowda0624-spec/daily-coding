@@ -1,0 +1,3 @@
+data = {"c":3,"a":1,"b":2}
+
+print(dict(sorted(data.items())))
